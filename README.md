@@ -1,1 +1,2 @@
 # HelloWorldzie
+Pierwszy wrzucony projekt. 
